@@ -5,4 +5,8 @@ package com.lx
   **/
 object GitTest {
 
+  def main(args: Array[String]): Unit = {
+    println("PUSH test01")
+  }
+
 }
